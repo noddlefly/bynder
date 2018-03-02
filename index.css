@@ -1,0 +1,20 @@
+
+
+a { 
+	color: white;
+font-size: 36px;
+padding-top: 8px;
+letter-spacing: -0.9px;
+text-decoration: none;
+cursor: pointer;}
+
+video { position: absolute;
+left: 0; 
+top: 0;
+min-width: 100%;
+min-height: 100%;
+z-index: -1000;
+}
+h1 { font-weight: 300;
+font-size: 100px;
+ }
